@@ -8,7 +8,8 @@ docker image location: https://hub.docker.com/r/lwolf/kubectl_deployer/
 
 |  Tag   | Alpine | Kubectl |
 | :----: | :----: | :-----: |
-| latest |  3.6   | 1.18.3  |
+| latest | 3.18  | 1.24.16 |
+| 1.24.16 |  3.18  | 1.24.16 |
 | 1.18.3 |  3.6   | 1.18.3  |
 | 1.13.0 |  3.6   | 1.13.0  |
 | 1.10.0 |  3.6   | 1.10.0  |
